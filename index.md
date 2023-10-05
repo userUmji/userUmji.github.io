@@ -16,13 +16,13 @@
 
 # [관련 이미지 & 동영상]  
 ### - 관련 이미지
-<img src="./img/UI.png" width = "800" height = "500">  
-<img src="./img/제작.png" width = "800" height = "500">  
-<img src="./img/농사1.jpg" width = "800" height = "500">  
+<img src="./img/UI.png" width = "850" height = "500">  
+<img src="./img/제작.png" width = "850" height = "500">  
+<img src="./img/농사1.jpg" width = "850" height = "500">  
 <br><br>  
 
 # [대표 이미지]  
-<img src="./img/대표이미지.png" width = "800" height = "500">  
+<img src="./img/대표이미지.png" width = "850" height = "500">  
 <br><br>  
 
 # [컨셉 & 대표이미지 기반 작품 묘사]  
