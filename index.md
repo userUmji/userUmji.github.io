@@ -19,7 +19,7 @@
 # [관련 이미지 & 동영상]  
 ### - 관련 이미지
 <img src="./img/UI.png" width = "850" height = "500">  
-<img src="./img/제작.png" width = "850" height = "500">  
+<img src="./img/UI_2.png" width = "850" height = "500">  
 <img src="./img/농사1.jpg" width = "850" height = "500">  
 <br><br>  
 
@@ -131,7 +131,12 @@
 |51|UI|사과|Apple||<img src="./img/사과열매.png" width="100">|  
 |52|UI|쓰레기 통|Trash Can||<img src="./img/Trash_Can.png" width="100">|  
 |53|플레이어|플레이어|Player||<img src="./img/플레이어.png" width="100">|  
-|54|장비|오브|Ob||<img src="./img/오브.png" width="100">|
+|54|장비|오브|Ob||<img src="./img/오브.png" width="100">|  
+
+# 2. 파라미터(속성) 뽑아 보기  
+|속성|영문명칭|설명|비고|  
+|:----:|:----:|:----:| 
+|판매 금액|Sell|상점에서 판매하는 가격||
 
 
 
