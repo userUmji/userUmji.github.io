@@ -410,7 +410,11 @@
 
 ### 8. 시간별 흐름도 flowchart  
 <img src="./img/흐름도.png" width="800">  
-<img src="./img/흐름도2.png" width="800">
+<img src="./img/흐름도2.png" width="800">  
+
+### 9. 키보드 이벤트에 대한 흐름도  
+<img src="./img/흐름도2.png" width="800"> 
+
 
 
 
