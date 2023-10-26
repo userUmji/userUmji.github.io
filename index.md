@@ -112,26 +112,26 @@
 |32|UI|날짜|Data Tab||<img src="./img/날짜.png" width="100">|   
 |33|UI|시간|Time Tab||<img src="./img/시간.png" width="100">|  
 |34|UI|구매, 판매 버튼|Sell, Buy Button||<img src="./img/ㅇㅇㅇㅇㅇㅇㅇ.png" width="100">|  
-|35|UI|토마토 씨앗|Tomato Seed||<img src="./img/토마토 씨앗이미지.png" width="100">|  
-|36|UI|옥수수 씨앗|Corn Seed||<img src="./img/옥수수.png" width="100">|  
+|35|UI|토마토 씨앗|Tomato Seed||<img src="./img/Tomato_Bag.png" width="100">|  
+|36|UI|옥수수 씨앗|Corn Seed||<img src="./img/Corn_Bag.png" width="100">|  
 |37|UI|호박씨앗 |Pumpkin Seed||<img src="./img/호박 씨앗.png" width="100">|  
 |38|UI|순무 씨앗|Turnip Seed||<img src="./img/순무 씨앗.png" width="100">|  
 |39|UI|당근 씨앗|Carrot Seed||<img src="./img/당근 씨앗이미.png" width="100">|  
-|40|UI|토마토|Tomato_UI||<img src="./img/인.png" width="100">|  
-|41|UI|옥수수|Corn_UI||<img src="./img/인.png" width="100">|  
-|42|UI|호박|Pumpkin_UI||<img src="./img/인.png" width="100">|  
-|43|UI|순무|Turnip_UI||<img src="./img/인.png" width="100">|  
-|44|UI|당근|Carrot_UI||<img src="./img/인.png" width="100">|  
-|45|UI|계란|Egg||<img src="./img/인.png" width="100">|  
-|46|UI|토마콘스프|TomaCornSoup||<img src="./img/인.png" width="100">|  
-|47|UI|호박 샐러드|Pumpkin Salad||<img src="./img/인.png" width="100">|  
-|48|UI|계란후라이|Fried Egg||<img src="./img/인.png" width="100">|  
-|49|UI|건강 주스|Health Juice||<img src="./img/인.png" width="100">|  
-|50|UI|사과 주스|Apple Juice||<img src="./img/인.png" width="100">|  
-|51|UI|사과|Apple||<img src="./img/인.png" width="100">|  
-|52|UI|쓰레기 통|Trash Can||<img src="./img/인.png" width="100">|  
-|53|플레이어|플레이어|Player||<img src="./img/인.png" width="100">|  
-|54|장비|오브|Ob||<img src="./img/인.png" width="100">|
+|40|UI|토마토|Tomato_UI||<img src="./img/Tomato.png" width="100">|  
+|41|UI|옥수수|Corn_UI||<img src="./img/Corn.png" width="100">|  
+|42|UI|호박|Pumpkin_UI||<img src="./img/호박.png" width="100">|  
+|43|UI|순무|Turnip_UI||<img src="./img/순무.png" width="100">|  
+|44|UI|당근|Carrot_UI||<img src="./img/당근.png" width="100">|  
+|45|UI|계란|Egg||<img src="./img/계란.png" width="100">|  
+|46|UI|토마콘스프|TomaCornSoup||<img src="./img/Tomacorn_Soup.png" width="100">|  
+|47|UI|호박 샐러드|Pumpkin Salad||<img src="./img/호박샐러드.png" width="100">|  
+|48|UI|계란후라이|Fried Egg||<img src="./img/후라이.png" width="100">|  
+|49|UI|건강 주스|Health Juice||<img src="./img/건강 주스.png" width="100">|  
+|50|UI|사과 주스|Apple Juice||<img src="./img/사과 주스.png" width="100">|  
+|51|UI|사과|Apple||<img src="./img/사과열매.png" width="100">|  
+|52|UI|쓰레기 통|Trash Can||<img src="./img/Trash_Can.png" width="100">|  
+|53|플레이어|플레이어|Player||<img src="./img/플레이어.png" width="100">|  
+|54|장비|오브|Ob||<img src="./img/오브.png" width="100">|
 
 
 
