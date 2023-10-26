@@ -101,9 +101,9 @@
 |21|UI|인벤토리|Inventory||<img src="./img/인벤.png" width="100">|  
 |22|UI|허기 게이지|Hunger Gauge||<img src="./img/허기.png" width="100">|  
 |23|UI|피로도 게이지|Pirodo Gauge||<img src="./img/피로도.png" width="100">|  
-|24|UI|씨앗 상점|Seed Shop||<img src="./img/인.png" width="100">|  
-|25|UI|음식점|Food Shop||<img src="./img/인.png" width="100">|  
-|26|UI|목축점|Ranch Shop||<img src="./img/인.png" width="100">|  
+|24|UI|씨앗 상점|Seed Shop||<img src="./img/상점 기획.png" width="100">|  
+|25|UI|음식점|Food Shop||<img src="./img/상점 기획.png" width="100">|  
+|26|UI|목축점|Ranch Shop||<img src="./img/상점 기획.png" width="100">|  
 |27|UI|제작창|Crafting Tab||<img src="./img/제작.png" width="100">|  
 |28|UI|환경설정 아이콘|Settings Icon||<img src="./img/환경설정.png" width="100">|  
 |29|UI|환경설정|Settings Tab||<img src="./img/환결설정 창.png" width="100">|  
