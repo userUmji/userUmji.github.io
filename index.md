@@ -116,7 +116,7 @@
 |36|UI|옥수수 씨앗|Corn Seed||<img src="./img/Corn_Bag.png" width="100">|  
 |37|UI|호박씨앗 |Pumpkin Seed||<img src="./img/호박 씨앗.png" width="100">|  
 |38|UI|순무 씨앗|Turnip Seed||<img src="./img/순무 씨앗.png" width="100">|  
-|39|UI|당근 씨앗|Carrot Seed||<img src="./img/당근 씨앗이미.png" width="100">|  
+|39|UI|당근 씨앗|Carrot Seed||<img src="./img/당근 씨앗.png" width="100">|  
 |40|UI|토마토|Tomato_UI||<img src="./img/Tomato.png" width="100">|  
 |41|UI|옥수수|Corn_UI||<img src="./img/Corn.png" width="100">|  
 |42|UI|호박|Pumpkin_UI||<img src="./img/호박.png" width="100">|  
