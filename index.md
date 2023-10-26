@@ -409,8 +409,8 @@
 - 인벤토리에 있는 아이템을 클릭 후 쓰레기통 UI를 클릭하면 아이템을 삭제한다.
 
 ### 8. 시간별 흐름도 flowchart  
-<img src="./img/흐름도.png" width="500">  
-<img src="./img/흐름도2.png" width="500">
+<img src="./img/흐름도.png" width="800">  
+<img src="./img/흐름도2.png" width="800">
 
 
 
