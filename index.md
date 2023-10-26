@@ -106,7 +106,7 @@
 |26|UI|목축점|Ranch Shop||<img src="./img/인.png" width="100">|  
 |27|UI|제작창|Crafting Tab||<img src="./img/제작.png" width="100">|  
 |28|UI|환경설정 아이콘|Settings Icon||<img src="./img/환경설정.png" width="100">|  
-|29|UI|환경설정|Settings Tab||<img src="./img/환경설정 창.png" width="100">|  
+|29|UI|환경설정|Settings Tab||<img src="./img/환결설정 창.png" width="100">|  
 |30|UI|미니 인벤토리|Mini Inventory||<img src="./img/미니인벤토리.png" width="100">|  
 |31|UI|소지금액|Amount Tap||<img src="./img/소지금액.png" width="100">|  
 |32|UI|날짜|Data Tab||<img src="./img/날짜.png" width="100">|   
