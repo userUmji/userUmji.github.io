@@ -120,7 +120,7 @@
 |40|UI|토마토|Tomato_UI||<img src="./img/Tomato.png" width="100">|  
 |41|UI|옥수수|Corn_UI||<img src="./img/Corn.png" width="100">|  
 |42|UI|호박|Pumpkin_UI||<img src="./img/호박.png" width="100">|  
-|43|UI|순무|Turnip_UI||<img src="./img/순무.png" width="100">|  
+|43|UI|순무|Turnip_UI||<img src="./img/무우.png" width="100">|  
 |44|UI|당근|Carrot_UI||<img src="./img/당근.png" width="100">|  
 |45|UI|계란|Egg||<img src="./img/계란.jpg" width="100">|  
 |46|UI|토마콘스프|TomaCornSoup||<img src="./img/Tomacorn_Soup.png" width="100">|  
