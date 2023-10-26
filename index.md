@@ -111,7 +111,7 @@
 |31|UI|소지금액|Amount Tap||<img src="./img/소지금액.png" width="100">|  
 |32|UI|날짜|Data Tab||<img src="./img/날짜.png" width="100">|   
 |33|UI|시간|Time Tab||<img src="./img/시간.png" width="100">|  
-|34|UI|구매, 판매 버튼|Sell, Buy Button||<img src="./img/ㅇㅇㅇㅇㅇㅇㅇ.png" width="100">|  
+|34|UI|구매, 판매 버튼|Sell, Buy Button||<img src="./img/Buy_Button" width="100">|  
 |35|UI|토마토 씨앗|Tomato Seed||<img src="./img/Tomato_Bag.png" width="100">|  
 |36|UI|옥수수 씨앗|Corn Seed||<img src="./img/Corn_Bag.png" width="100">|  
 |37|UI|호박씨앗 |Pumpkin Seed||<img src="./img/호박 씨앗.png" width="100">|  
@@ -119,7 +119,7 @@
 |39|UI|당근 씨앗|Carrot Seed||<img src="./img/당근 씨앗.png" width="100">|  
 |40|UI|토마토|Tomato_UI||<img src="./img/Tomato.png" width="100">|  
 |41|UI|옥수수|Corn_UI||<img src="./img/Corn.png" width="100">|  
-|42|UI|호박|Pumpkin_UI||<img src="./img/호박.png" width="100">|  
+|42|UI|호박|Pumpkin_UI||<img src="./img/호.png" width="100">|  
 |43|UI|순무|Turnip_UI||<img src="./img/무우.png" width="100">|  
 |44|UI|당근|Carrot_UI||<img src="./img/당근 이미지.png" width="100">|  
 |45|UI|계란|Egg||<img src="./img/계란.jpg" width="100">|  
